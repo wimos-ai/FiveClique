@@ -1,0 +1,1 @@
+cl src/*.cpp /Isrc /EHsc /FeFive_Clique.exe
