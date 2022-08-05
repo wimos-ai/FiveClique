@@ -26,7 +26,6 @@
 #include "Word.h"
 #include "clique_gen.h"
 #include "graph_gen.h"
-#include "main.h"
 
 typedef struct {
 	bool help;
